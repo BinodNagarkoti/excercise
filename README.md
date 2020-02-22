@@ -4,15 +4,15 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the backend root directory:
 
-## `npm install`
+###`npm install`
 
-##  `npm start`
+###`npm start`
 
 ## Available Scripts
 
 In the project directory, you can run:
 
-## `npm install`
+###`npm install`
 
 ### `npm start`
 
